@@ -10,6 +10,8 @@ Inside each project:
 - **data/** → contains raw and processed datasets (CSV)  
 - **workbook/** → contains Tableau packaged workbooks (.twbx) ready to open  
 - **README.txt** → documents project purpose, dataset details, and dashboard features  
+- **<DASHBOARD_NAME>.pdf** → documents project purpose, dataset details, and dashboard features  (if applicable)
+- **<DASHBOARD_NAME-Presentation>.pdf** → documents project purpose, dataset details, and dashboard features  (if applicable)
 
 ## Purpose
 The goal of this repo is to showcase BI and analytics capabilities for portfolio and interview purposes. Projects demonstrate how to:
