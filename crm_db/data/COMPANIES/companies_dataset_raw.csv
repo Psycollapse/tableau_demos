@@ -1,0 +1,101 @@
+company_id,company_name,HQ_Country,HQ_State,Company_Size,Has_ever_been_subscribed,Last_ended_subscription_date
+1,Acme Dynamics,UK,NIR,1-10M,Yes,12/21/2023
+2,BlueRiver Analytics,FR,OCC,<1M,No,
+3,NextWave Systems,UK,SCT,>25M,No,
+4,IronClad Solutions,JP,AI,<1M,No,
+5,BrightPath Consulting,FR,PAC,>25M,Yes,4/26/2024
+6,SummitWorks,JP,AI,11-25M,No,
+7,Nimbus Global,DE,BE,11-25M,No,
+8,Vertexon Technologies,FR,NAQ,<1M,Yes,9/2/2025
+9,SilverLeaf Partners,AU,VIC,11-25M,No,
+10,QuantumBridge,FR,IDF,>25M,No,
+11,Northstar Ventures,CA,MB,>25M,No,
+12,HelixPoint,BR,SP,>25M,No,
+13,Evergreen Data Labs,MX,NLE,>25M,Yes,3/12/2024
+14,PioneerWorks,US,IL,>25M,Yes,2/21/2025
+15,CoreVista,AU,SA,11-25M,No,
+16,RedOak Strategies,US,NY,<1M,No,
+17,UrbanSphere,AU,VIC,<1M,Yes,2/29/2024
+18,ZenithFlow,UK,SCT,<1M,No,
+19,Solaris Insights,IN,UP,<1M,Yes,2/12/2025
+20,GreenField Tech,BR,SP,11-25M,No,
+21,AtlasCore,UK,ENG,11-25M,Yes,8/3/2025
+22,CrystalBay Systems,US,FL,11-25M,Yes,9/9/2024
+23,HorizonEdge,IN,TN,1-10M,Yes,6/19/2024
+24,MomentumWorks,CA,ON,1-10M,Yes,7/16/2024
+25,BrightForge,US,NY,>25M,Yes,7/6/2025
+26,Skyline Partners,UK,NIR,1-10M,Yes,12/29/2024
+27,OmniTrack,US,IL,>25M,Yes,12/16/2022
+28,Clearwater Solutions,DE,BE,11-25M,Yes,7/2/2023
+29,BoldPeak,JP,AI,1-10M,No,
+30,Stratosphere Data,DE,BE,11-25M,No,
+31,GoldenGate Systems,DE,NW,>25M,No,
+32,TrueNorth Analytics,DE,BY,<1M,Yes,2/11/2024
+33,VectorWorks,US,IL,11-25M,Yes,4/30/2024
+34,Silverstone Group,BR,SP,>25M,Yes,6/1/2025
+35,OptimaCore,MX,CMX,11-25M,Yes,7/2/2025
+36,BluePeak Consulting,BR,SP,<1M,Yes,9/13/2022
+37,GlobalSpring,US,FL,>25M,Yes,8/19/2023
+38,Everlight Systems,FR,OCC,>25M,Yes,6/4/2025
+39,ZenFlow Tech,IN,KA,11-25M,No,
+40,CrestPoint,MX,YUC,<1M,No,
+41,IronPeak Insights,UK,WLS,>25M,No,
+42,Lumina Partners,US,IL,11-25M,No,
+43,EdgeWorks,US,TX,<1M,No,
+44,Highland Data,UK,NIR,>25M,Yes,7/24/2024
+45,PulsePoint,IN,KA,>25M,No,
+46,ClearSky Solutions,DE,BE,<1M,Yes,6/15/2023
+47,TerraNova Tech,UK,ENG,<1M,No,
+48,NorthWind Partners,AU,VIC,<1M,No,
+49,SummitCore,CA,MB,<1M,No,
+50,BrightHaven,MX,AGS,>25M,No,
+51,AuroraEdge,DE,NW,<1M,No,
+52,SynergyWorks,AU,NSW,>25M,No,
+53,OpenVista,BR,RJ,>25M,Yes,8/11/2023
+54,BlueHorizon Labs,US,TX,>25M,No,
+55,NextPhase,AU,QLD,>25M,No,
+56,UnityBridge,FR,NAQ,>25M,No,
+57,SierraCore,JP,KN,1-10M,No,
+58,TrueWave,AU,QLD,1-10M,Yes,12/13/2023
+59,CrystalPath,FR,BRE,>25M,Yes,10/13/2023
+60,DataForge,CA,BC,<1M,Yes,3/1/2023
+61,SkyStone Partners,MX,CMX,<1M,Yes,6/11/2024
+62,IronBridge,FR,BRE,1-10M,No,
+63,ZenithCore,FR,OCC,1-10M,Yes,8/8/2025
+64,ClearView Systems,CA,MB,<1M,Yes,4/22/2024
+65,UrbanTech,DE,NW,11-25M,Yes,1/28/2024
+66,BrightFuture,AU,SA,<1M,Yes,2/27/2024
+67,CoreWave,UK,NIR,>25M,No,
+68,SummitEdge,US,CA,1-10M,Yes,6/17/2024
+69,MomentumCore,US,CA,11-25M,No,
+70,GreenWave,FR,OCC,<1M,No,
+71,OptimaData,CA,MB,<1M,Yes,8/29/2024
+72,CloudStone,MX,CMX,>25M,Yes,8/4/2025
+73,EverCore,US,CA,>25M,Yes,8/1/2025
+74,GoldenPath,US,NY,>25M,Yes,3/24/2024
+75,PulseCore,MX,NLE,<1M,No,
+76,BlueStream,IN,KA,<1M,No,
+77,IronWorks,DE,BY,>25M,Yes,6/28/2024
+78,VectorEdge,MX,JAL,1-10M,Yes,9/12/2023
+79,HorizonBridge,FR,OCC,11-25M,No,
+80,NextGen Labs,IN,MH,>25M,No,
+81,SilverCrest,MX,AGS,<1M,No,
+82,TrueEdge,IN,UP,1-10M,No,
+83,BrightCore,UK,NIR,1-10M,Yes,4/16/2025
+84,OmniVista,AU,QLD,>25M,Yes,8/17/2025
+85,SummitData,BR,RS,>25M,Yes,10/5/2024
+86,CrystalWorks,CA,QC,<1M,No,
+87,NimbusEdge,JP,AI,1-10M,Yes,1/11/2023
+88,HighPoint,FR,PAC,1-10M,Yes,3/5/2023
+89,AuroraWorks,FR,BRE,1-10M,No,
+90,QuantumEdge,CA,BC,11-25M,Yes,9/15/2024
+91,ZenithWorks,IN,MH,1-10M,Yes,9/16/2023
+92,SolarCore,US,FL,>25M,Yes,12/11/2024
+93,EverPath,UK,SCT,>25M,No,
+94,CoreStone,MX,YUC,1-10M,No,
+95,IronVista,MX,NLE,>25M,Yes,1/12/2023
+96,MomentumEdge,JP,AI,11-25M,Yes,3/21/2023
+97,SkyCore,JP,KN,<1M,No,
+98,BlueForge,DE,BE,>25M,No,
+99,ClearWave,DE,BW,<1M,Yes,1/28/2024
+100,BrightStone,CA,QC,1-10M,No,

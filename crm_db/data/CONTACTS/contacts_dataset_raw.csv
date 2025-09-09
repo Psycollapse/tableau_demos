@@ -1,0 +1,382 @@
+contact_id,company_id,contact_type,lastname,firstname,email,campaign_ids,role,contact_owner
+1,,internal,Collins,Randy,randy.collins@ourcompany.com,,AM,
+2,,internal,Rich,William,william.rich@ourcompany.com,,Senior AE,
+3,,internal,Munoz,John,john.munoz@ourcompany.com,,AM,
+4,,internal,Oneill,Tonya,tonya.oneill@ourcompany.com,,SDR,
+5,,internal,Booth,Jennifer,jennifer.booth@ourcompany.com,,SDR,
+6,,internal,Flynn,Jennifer,jennifer.flynn@ourcompany.com,,SDR,
+7,,internal,Juarez,Tammy,tammy.juarez@ourcompany.com,,Solutions Consultant,
+8,,internal,Grant,Stephen,stephen.grant@ourcompany.com,,AM,
+9,,internal,Suarez,Megan,megan.suarez@ourcompany.com,,AM,
+10,,internal,Morrow,Gary,gary.morrow@ourcompany.com,,AE,
+11,,internal,Gates,Kyle,kyle.gates@ourcompany.com,,AE,
+12,,internal,James,Andrew,andrew.james@ourcompany.com,,AE,
+13,,internal,Moore,Charles,charles.moore@ourcompany.com,,AE,
+14,,internal,Williams,David,david.williams@ourcompany.com,,AM,
+15,1.0,lead,Chavez,Stephanie,stephanie.chavez@company1.com,,Sales Director,7.0
+16,1.0,former user,King,William,william.king@company1.com,"[214,285,148]",Marketing Lead,9.0
+17,2.0,lead,Smith,George,george.smith@company2.com,,BI Analyst,6.0
+18,2.0,champion,Gomez,Meghan,meghan.gomez@company2.com,,CIO,6.0
+19,2.0,champion,Hammond,Gina,gina.hammond@company2.com,,Procurement,8.0
+20,3.0,partner,Jones,Penny,penny.jones@company3.com,,Ops Manager,9.0
+21,4.0,lead,Wall,Daniel,daniel.wall@company4.com,,Product Manager,1.0
+22,5.0,lead,Berry,Andres,andres.berry@company5.com,"[110,298,224]",IT Admin,14.0
+23,6.0,champion,Thompson,Chelsea,chelsea.thompson@company6.com,,Customer Success Manager,8.0
+24,7.0,partner,Hood,Natasha,natasha.hood@company7.com,"[239,254,289]",Data Engineer,8.0
+25,7.0,former user,Spencer,Alyssa,alyssa.spencer@company7.com,[222],Product Manager,7.0
+26,7.0,partner,Arias,Carrie,carrie.arias@company7.com,"[243,175,190]",VP Engineering,12.0
+27,7.0,partner,Brown,Ethan,ethan.brown@company7.com,,IT Admin,6.0
+28,7.0,former user,Jenkins,Courtney,courtney.jenkins@company7.com,,CIO,13.0
+29,7.0,former user,Young,Lori,lori.young@company7.com,,CTO,4.0
+30,8.0,former user,Brown,Jerry,jerry.brown@company8.com,,Product Manager,13.0
+31,8.0,partner,Griffin,Tiffany,tiffany.griffin@company8.com,"[250,116]",CIO,2.0
+32,8.0,lead,Hicks,Douglas,douglas.hicks@company8.com,,Customer Success Manager,4.0
+33,8.0,lead,Frank,Kimberly,kimberly.frank@company8.com,"[267,219,268]",CTO,8.0
+34,8.0,partner,Shea,Richard,richard.shea@company8.com,,VP Engineering,1.0
+35,8.0,former user,Stafford,Kevin,kevin.stafford@company8.com,"[268,219]",CTO,13.0
+36,9.0,former user,Morrison,Michelle,michelle.morrison@company9.com,,Sales Director,13.0
+37,9.0,lead,Vargas,Jennifer,jennifer.vargas@company9.com,,Head of Data,8.0
+38,9.0,champion,Bowman,Robert,robert.bowman@company9.com,"[120,164]",Customer Success Manager,3.0
+39,9.0,former user,Vargas,Connie,connie.vargas@company9.com,"[255,102]",Marketing Lead,9.0
+40,9.0,lead,Pennington,Harold,harold.pennington@company9.com,,Product Manager,9.0
+41,9.0,champion,Bates,Tiffany,tiffany.bates@company9.com,,VP Engineering,4.0
+42,10.0,former user,Gibson,Annette,annette.gibson@company10.com,,Marketing Lead,8.0
+43,11.0,partner,Rios,Susan,susan.rios@company11.com,"[251,116,156]",BI Analyst,13.0
+44,11.0,partner,Allen,Tiffany,tiffany.allen@company11.com,"[117,259,209]",Sales Director,13.0
+45,11.0,partner,Lewis,Ernest,ernest.lewis@company11.com,"[261,192,247]",Marketing Lead,10.0
+46,11.0,former user,Johnson,Heidi,heidi.johnson@company11.com,"[107,148,265]",Sales Director,8.0
+47,12.0,partner,Robinson,Angela,angela.robinson@company12.com,,Data Engineer,14.0
+48,12.0,former user,Williams,Jamie,jamie.williams@company12.com,,Ops Manager,9.0
+49,12.0,partner,Roberts,Rachel,rachel.roberts@company12.com,"[129,167]",Sales Director,10.0
+50,12.0,partner,Green,Robyn,robyn.green@company12.com,[293],IT Admin,9.0
+51,12.0,lead,Clark,Grant,grant.clark@company12.com,[168],VP Engineering,2.0
+52,12.0,champion,Wilson,Christine,christine.wilson@company12.com,,Finance Manager,12.0
+53,13.0,lead,Bernard,Dominique,dominique.bernard@company13.com,[217],IT Admin,6.0
+54,13.0,partner,Thompson,Wanda,wanda.thompson@company13.com,,Procurement,7.0
+55,13.0,former user,Diaz,Stephanie,stephanie.diaz@company13.com,,Sales Director,12.0
+56,13.0,partner,Pierce,Travis,travis.pierce@company13.com,,Head of Data,9.0
+57,14.0,lead,Garza,Stacey,stacey.garza@company14.com,,CIO,5.0
+58,14.0,former user,Neal,Karen,karen.neal@company14.com,"[244,261]",Head of Data,7.0
+59,14.0,lead,Harvey,Matthew,matthew.harvey@company14.com,[251],IT Admin,11.0
+60,14.0,former user,Morgan,Rachel,rachel.morgan@company14.com,"[147,254,187]",Ops Manager,12.0
+61,14.0,former user,Martinez,Matthew,matthew.martinez@company14.com,,VP Engineering,9.0
+62,14.0,former user,Smith,Jeffrey,jeffrey.smith@company14.com,[241],BI Analyst,4.0
+63,15.0,champion,Armstrong,Mary,mary.armstrong@company15.com,"[299,105,210]",VP Engineering,12.0
+64,15.0,lead,Lowe,Michael,michael.lowe@company15.com,,Procurement,8.0
+65,15.0,former user,Nolan,Matthew,matthew.nolan@company15.com,"[183,212]",Head of Data,3.0
+66,16.0,partner,Hodges,Kathleen,kathleen.hodges@company16.com,"[262,228,183]",Finance Manager,9.0
+67,16.0,lead,Nguyen,Nicole,nicole.nguyen@company16.com,"[183,289,267]",Marketing Lead,5.0
+68,16.0,champion,Decker,Christina,christina.decker@company16.com,,Finance Manager,12.0
+69,16.0,partner,Davis,Richard,richard.davis@company16.com,"[151,186,248]",Procurement,5.0
+70,16.0,champion,Wolf,Kurt,kurt.wolf@company16.com,,Finance Manager,7.0
+71,17.0,lead,Santos,Grant,grant.santos@company17.com,"[271,267]",VP Engineering,13.0
+72,17.0,lead,Scott,Donald,donald.scott@company17.com,"[249,115]",Customer Success Manager,12.0
+73,18.0,partner,Braun,Brian,brian.braun@company18.com,[109],IT Admin,2.0
+74,18.0,partner,Martinez,Jermaine,jermaine.martinez@company18.com,[243],Data Engineer,13.0
+75,18.0,former user,Daniels,Angela,angela.daniels@company18.com,[287],Head of Data,5.0
+76,19.0,former user,Henderson,Daniel,daniel.henderson@company19.com,[118],CIO,8.0
+77,20.0,champion,Leonard,Bonnie,bonnie.leonard@company20.com,"[121,213]",Finance Manager,4.0
+78,20.0,champion,Villegas,Gary,gary.villegas@company20.com,,BI Analyst,13.0
+79,20.0,lead,Watkins,Kari,kari.watkins@company20.com,,Finance Manager,6.0
+80,20.0,champion,Smith,Autumn,autumn.smith@company20.com,"[284,282,118]",Marketing Lead,5.0
+81,21.0,former user,Thomas,Stephen,stephen.thomas@company21.com,[221],IT Admin,5.0
+82,21.0,lead,Smith,Jacob,jacob.smith@company21.com,,Procurement,5.0
+83,21.0,champion,Burgess,Hannah,hannah.burgess@company21.com,[174],CTO,1.0
+84,21.0,champion,Lamb,Jennifer,jennifer.lamb@company21.com,[253],Ops Manager,14.0
+85,21.0,former user,Edwards,Cynthia,cynthia.edwards@company21.com,,Data Engineer,7.0
+86,21.0,former user,Young,Tara,tara.young@company21.com,"[151,170]",IT Admin,12.0
+87,22.0,former user,Holt,Laurie,laurie.holt@company22.com,"[245,238,115]",CTO,5.0
+88,23.0,partner,Erickson,Virginia,virginia.erickson@company23.com,"[141,196,140]",Procurement,1.0
+89,23.0,champion,Price,Richard,richard.price@company23.com,,CIO,12.0
+90,23.0,champion,Daniel,Reginald,reginald.daniel@company23.com,"[226,217,156]",Data Engineer,13.0
+91,24.0,champion,Johnson,Christopher,christopher.johnson@company24.com,"[158,256]",CTO,6.0
+92,24.0,partner,James,Natalie,natalie.james@company24.com,"[191,198]",Customer Success Manager,5.0
+93,24.0,partner,Shaw,Nicole,nicole.shaw@company24.com,,Data Engineer,2.0
+94,24.0,partner,Bryant,Natasha,natasha.bryant@company24.com,"[241,177,173]",Data Engineer,3.0
+95,24.0,partner,Miller,Zoe,zoe.miller@company24.com,"[158,141]",Finance Manager,1.0
+96,25.0,partner,Wall,John,john.wall@company25.com,"[239,277]",VP Engineering,5.0
+97,25.0,partner,Cruz,Kayla,kayla.cruz@company25.com,"[101,213,156]",BI Analyst,7.0
+98,25.0,lead,Francis,Kelsey,kelsey.francis@company25.com,"[211,186]",CTO,5.0
+99,26.0,former user,Turner,Earl,earl.turner@company26.com,,Ops Manager,6.0
+100,26.0,partner,Washington,Michael,michael.washington@company26.com,,Finance Manager,14.0
+101,26.0,lead,Ellis,Joel,joel.ellis@company26.com,,Marketing Lead,9.0
+102,27.0,partner,Velez,Lauren,lauren.velez@company27.com,[182],Product Manager,11.0
+103,27.0,champion,Bautista,Colleen,colleen.bautista@company27.com,"[132,207,158]",CIO,4.0
+104,27.0,champion,Ortiz,Laurie,laurie.ortiz@company27.com,,Ops Manager,6.0
+105,28.0,former user,Reynolds,Julia,julia.reynolds@company28.com,"[130,284,110]",VP Engineering,11.0
+106,28.0,partner,Alvarez,Lindsey,lindsey.alvarez@company28.com,"[115,132,273]",Product Manager,1.0
+107,28.0,champion,Li,Eric,eric.li@company28.com,"[122,232,202]",IT Admin,2.0
+108,28.0,former user,Miller,Joseph,joseph.miller@company28.com,"[162,129]",Procurement,9.0
+109,28.0,former user,Sampson,Melissa,melissa.sampson@company28.com,[247],CIO,7.0
+110,28.0,lead,Ferguson,Chris,chris.ferguson@company28.com,,Customer Success Manager,14.0
+111,29.0,former user,Cox,Pamela,pamela.cox@company29.com,"[136,163,245]",Customer Success Manager,11.0
+112,29.0,lead,Williams,Matthew,matthew.williams@company29.com,"[161,263,131]",Sales Director,1.0
+113,29.0,partner,Page,Linda,linda.page@company29.com,"[109,139,227]",CTO,1.0
+114,30.0,lead,Carter,Alexandra,alexandra.carter@company30.com,,VP Engineering,1.0
+115,30.0,champion,Jenkins,Phillip,phillip.jenkins@company30.com,"[295,231]",Customer Success Manager,2.0
+116,30.0,former user,Robinson,Christina,christina.robinson@company30.com,[107],VP Engineering,6.0
+117,30.0,former user,Thornton,Rhonda,rhonda.thornton@company30.com,,Procurement,4.0
+118,30.0,former user,Jones,Elizabeth,elizabeth.jones@company30.com,"[140,102,152]",Procurement,12.0
+119,30.0,partner,Patrick,Maurice,maurice.patrick@company30.com,,Data Engineer,11.0
+120,31.0,partner,Rivers,Dana,dana.rivers@company31.com,[204],Ops Manager,6.0
+121,31.0,champion,Schmidt,Manuel,manuel.schmidt@company31.com,"[264,197,210]",Finance Manager,13.0
+122,31.0,partner,Hartman,Jenna,jenna.hartman@company31.com,,CIO,1.0
+123,31.0,lead,Farrell,Kenneth,kenneth.farrell@company31.com,,IT Admin,6.0
+124,31.0,partner,Thomas,Amy,amy.thomas@company31.com,,Marketing Lead,3.0
+125,32.0,partner,Pitts,Michelle,michelle.pitts@company32.com,,Customer Success Manager,9.0
+126,32.0,lead,Bennett,Dalton,dalton.bennett@company32.com,[141],Data Engineer,5.0
+127,33.0,champion,Osborne,Debra,debra.osborne@company33.com,,CTO,8.0
+128,33.0,former user,Brennan,Susan,susan.brennan@company33.com,"[260,289,144]",Data Engineer,12.0
+129,34.0,champion,King,Angela,angela.king@company34.com,,Customer Success Manager,14.0
+130,34.0,champion,Jacobs,James,james.jacobs@company34.com,,Data Engineer,5.0
+131,35.0,former user,Hampton,Erik,erik.hampton@company35.com,,Marketing Lead,11.0
+132,35.0,champion,Li,Billy,billy.li@company35.com,"[166,229]",Ops Manager,13.0
+133,36.0,lead,Hicks,Michael,michael.hicks@company36.com,[224],Customer Success Manager,11.0
+134,36.0,lead,Guerrero,Jose,jose.guerrero@company36.com,,Finance Manager,10.0
+135,36.0,former user,Cantu,Vickie,vickie.cantu@company36.com,[106],IT Admin,10.0
+136,36.0,partner,Nash,Penny,penny.nash@company36.com,[119],Finance Manager,9.0
+137,36.0,partner,Lawson,Jacqueline,jacqueline.lawson@company36.com,"[257,111,256]",Ops Manager,13.0
+138,37.0,former user,Carpenter,Diana,diana.carpenter@company37.com,[198],Marketing Lead,11.0
+139,37.0,lead,Li,Lance,lance.li@company37.com,,Product Manager,4.0
+140,37.0,champion,Stephenson,Debra,debra.stephenson@company37.com,,VP Engineering,2.0
+141,37.0,partner,Gallegos,Katherine,katherine.gallegos@company37.com,[103],Marketing Lead,3.0
+142,37.0,partner,Greene,Michael,michael.greene@company37.com,,BI Analyst,5.0
+143,38.0,partner,Hartman,Eileen,eileen.hartman@company38.com,"[190,150,287]",Product Manager,11.0
+144,38.0,former user,Carter,Blake,blake.carter@company38.com,[182],VP Engineering,10.0
+145,39.0,lead,Reyes,David,david.reyes@company39.com,"[285,160,152]",Finance Manager,9.0
+146,39.0,champion,Pennington,Johnny,johnny.pennington@company39.com,,VP Engineering,11.0
+147,39.0,former user,Love,Joseph,joseph.love@company39.com,,Marketing Lead,14.0
+148,40.0,partner,Brooks,Charlotte,charlotte.brooks@company40.com,"[115,137,177]",Data Engineer,10.0
+149,40.0,champion,Garcia,Kristin,kristin.garcia@company40.com,,Finance Manager,6.0
+150,40.0,champion,Hendricks,Eric,eric.hendricks@company40.com,,BI Analyst,10.0
+151,40.0,champion,Wolfe,Kimberly,kimberly.wolfe@company40.com,"[270,183,120]",Finance Manager,10.0
+152,40.0,lead,Haas,Michael,michael.haas@company40.com,"[205,253,192]",Ops Manager,6.0
+153,40.0,former user,Hunter,Mikayla,mikayla.hunter@company40.com,[167],Customer Success Manager,8.0
+154,41.0,lead,Gates,Daniel,daniel.gates@company41.com,"[122,215,235]",CIO,4.0
+155,41.0,former user,Green,Carmen,carmen.green@company41.com,,Finance Manager,8.0
+156,41.0,champion,Collins,Stacy,stacy.collins@company41.com,,VP Engineering,7.0
+157,41.0,lead,Johnson,Anthony,anthony.johnson@company41.com,"[115,179,209]",Procurement,13.0
+158,41.0,champion,Jackson,Diana,diana.jackson@company41.com,"[215,180]",Marketing Lead,12.0
+159,42.0,former user,Choi,Kevin,kevin.choi@company42.com,,Marketing Lead,1.0
+160,42.0,lead,Jones,Natalie,natalie.jones@company42.com,,Marketing Lead,5.0
+161,42.0,partner,Ritter,Keith,keith.ritter@company42.com,"[104,269]",VP Engineering,12.0
+162,42.0,partner,Lamb,Dominic,dominic.lamb@company42.com,,IT Admin,5.0
+163,43.0,lead,Palmer,Joseph,joseph.palmer@company43.com,"[206,249,194]",VP Engineering,14.0
+164,43.0,champion,Thomas,Megan,megan.thomas@company43.com,,Marketing Lead,11.0
+165,43.0,former user,Woodard,Matthew,matthew.woodard@company43.com,,Sales Director,6.0
+166,43.0,partner,Lowe,Jacob,jacob.lowe@company43.com,"[168,139,207]",CIO,6.0
+167,43.0,champion,Clark,Rachel,rachel.clark@company43.com,,Sales Director,13.0
+168,43.0,former user,Mack,Janet,janet.mack@company43.com,,IT Admin,10.0
+169,44.0,champion,Chavez,Andrew,andrew.chavez@company44.com,[224],IT Admin,1.0
+170,44.0,lead,Ingram,Patrick,patrick.ingram@company44.com,,Marketing Lead,13.0
+171,44.0,partner,Daniels,Mary,mary.daniels@company44.com,[123],Marketing Lead,6.0
+172,44.0,lead,Davis,Wendy,wendy.davis@company44.com,,Data Engineer,9.0
+173,44.0,lead,Cherry,Felicia,felicia.cherry@company44.com,"[170,145,216]",Customer Success Manager,6.0
+174,45.0,lead,Moore,Ryan,ryan.moore@company45.com,,CIO,14.0
+175,46.0,lead,Perez,Janet,janet.perez@company46.com,,CIO,4.0
+176,47.0,former user,Richmond,Richard,richard.richmond@company47.com,"[288,196]",Customer Success Manager,14.0
+177,48.0,former user,Kirby,Sarah,sarah.kirby@company48.com,"[290,150]",Head of Data,4.0
+178,49.0,lead,Phillips,David,david.phillips@company49.com,,Finance Manager,1.0
+179,49.0,champion,Hernandez,Crystal,crystal.hernandez@company49.com,,CTO,5.0
+180,49.0,champion,Ellis,John,john.ellis@company49.com,,Head of Data,13.0
+181,50.0,partner,Gibson,Austin,austin.gibson@company50.com,,IT Admin,1.0
+182,50.0,former user,Porter,Crystal,crystal.porter@company50.com,[217],Procurement,11.0
+183,50.0,lead,Miller,April,april.miller@company50.com,"[218,196]",Procurement,7.0
+184,50.0,lead,Arellano,David,david.arellano@company50.com,[221],Marketing Lead,10.0
+185,50.0,partner,Jones,Laurie,laurie.jones@company50.com,"[197,141,117]",Procurement,7.0
+186,50.0,partner,Warren,Martin,martin.warren@company50.com,[267],Product Manager,12.0
+187,51.0,lead,Romero,Jacob,jacob.romero@company51.com,"[196,195,204]",CIO,7.0
+188,51.0,champion,Gutierrez,Austin,austin.gutierrez@company51.com,"[164,198]",VP Engineering,2.0
+189,51.0,partner,Pierce,Zachary,zachary.pierce@company51.com,[237],Customer Success Manager,2.0
+190,51.0,champion,Moody,Isaac,isaac.moody@company51.com,"[190,135,224]",Head of Data,4.0
+191,52.0,former user,Cook,Connie,connie.cook@company52.com,,Procurement,10.0
+192,52.0,champion,Dyer,Tanya,tanya.dyer@company52.com,"[148,142]",Sales Director,10.0
+193,52.0,lead,Burns,Kurt,kurt.burns@company52.com,,Data Engineer,1.0
+194,52.0,champion,Conrad,Ronald,ronald.conrad@company52.com,,CIO,11.0
+195,52.0,lead,Sparks,Carly,carly.sparks@company52.com,,Ops Manager,6.0
+196,53.0,lead,Ramos,Justin,justin.ramos@company53.com,"[275,114]",Ops Manager,11.0
+197,53.0,lead,Clark,April,april.clark@company53.com,,Data Engineer,13.0
+198,53.0,partner,Petersen,Cynthia,cynthia.petersen@company53.com,,Sales Director,12.0
+199,53.0,former user,Hancock,Jennifer,jennifer.hancock@company53.com,,Ops Manager,1.0
+200,53.0,partner,Smith,Victor,victor.smith@company53.com,"[295,192]",Marketing Lead,1.0
+201,53.0,partner,Allen,Anne,anne.allen@company53.com,[264],Data Engineer,12.0
+202,54.0,lead,Robinson,Matthew,matthew.robinson@company54.com,"[148,255,164]",CIO,6.0
+203,54.0,partner,Patel,Misty,misty.patel@company54.com,"[146,213]",Finance Manager,4.0
+204,54.0,lead,Cox,Emma,emma.cox@company54.com,,Marketing Lead,13.0
+205,54.0,lead,Kennedy,Anne,anne.kennedy@company54.com,,Product Manager,9.0
+206,54.0,lead,Harvey,Glenn,glenn.harvey@company54.com,,Data Engineer,2.0
+207,55.0,former user,Austin,Jennifer,jennifer.austin@company55.com,,Data Engineer,4.0
+208,56.0,partner,Baker,Randy,randy.baker@company56.com,,Finance Manager,3.0
+209,57.0,champion,Smith,Lawrence,lawrence.smith@company57.com,"[162,189]",Finance Manager,9.0
+210,57.0,partner,Morales,Michael,michael.morales@company57.com,"[209,138]",BI Analyst,1.0
+211,57.0,former user,Jackson,Erin,erin.jackson@company57.com,,IT Admin,12.0
+212,57.0,champion,Boyd,Sophia,sophia.boyd@company57.com,[285],Data Engineer,10.0
+213,57.0,partner,Garcia,Savannah,savannah.garcia@company57.com,,Head of Data,9.0
+214,57.0,champion,Jefferson,Mary,mary.jefferson@company57.com,,CTO,12.0
+215,58.0,lead,Martinez,Eddie,eddie.martinez@company58.com,,VP Engineering,3.0
+216,58.0,former user,Cruz,Jose,jose.cruz@company58.com,,Product Manager,9.0
+217,58.0,champion,Jordan,Christopher,christopher.jordan@company58.com,[263],Head of Data,11.0
+218,58.0,former user,Murphy,Karen,karen.murphy@company58.com,,Finance Manager,9.0
+219,58.0,champion,Gross,Crystal,crystal.gross@company58.com,,BI Analyst,6.0
+220,58.0,lead,Patel,Clayton,clayton.patel@company58.com,"[155,154,133]",Sales Director,5.0
+221,59.0,lead,Harris,Nancy,nancy.harris@company59.com,,Marketing Lead,5.0
+222,59.0,champion,Jordan,Daniel,daniel.jordan@company59.com,,Data Engineer,12.0
+223,60.0,lead,Johnston,David,david.johnston@company60.com,[175],VP Engineering,14.0
+224,60.0,partner,Norris,Brandi,brandi.norris@company60.com,"[290,118]",IT Admin,5.0
+225,61.0,champion,Fisher,Patrick,patrick.fisher@company61.com,,CIO,9.0
+226,62.0,partner,Green,Elizabeth,elizabeth.green@company62.com,"[294,282]",IT Admin,14.0
+227,62.0,champion,Berry,Kerri,kerri.berry@company62.com,,Data Engineer,7.0
+228,62.0,partner,Chan,Kristin,kristin.chan@company62.com,[139],Product Manager,2.0
+229,62.0,champion,Gibson,Tiffany,tiffany.gibson@company62.com,[205],CIO,7.0
+230,62.0,champion,Burgess,Jonathan,jonathan.burgess@company62.com,,CTO,8.0
+231,63.0,champion,Barker,Jeffrey,jeffrey.barker@company63.com,,CTO,4.0
+232,63.0,former user,Middleton,Kurt,kurt.middleton@company63.com,,Marketing Lead,10.0
+233,63.0,champion,Brandt,Jennifer,jennifer.brandt@company63.com,,Finance Manager,12.0
+234,63.0,champion,Clark,John,john.clark@company63.com,,Marketing Lead,3.0
+235,63.0,lead,Contreras,Katherine,katherine.contreras@company63.com,[242],Customer Success Manager,12.0
+236,64.0,former user,Cooper,Leonard,leonard.cooper@company64.com,,Data Engineer,1.0
+237,64.0,lead,Gomez,Yolanda,yolanda.gomez@company64.com,[135],Ops Manager,7.0
+238,64.0,lead,Martin,Michael,michael.martin@company64.com,,CTO,12.0
+239,64.0,lead,Patel,Sarah,sarah.patel@company64.com,"[199,251,290]",Sales Director,7.0
+240,64.0,partner,Todd,Glenn,glenn.todd@company64.com,,Data Engineer,14.0
+241,65.0,champion,Flores,Kevin,kevin.flores@company65.com,"[181,158,132]",Finance Manager,6.0
+242,66.0,former user,Martin,Brenda,brenda.martin@company66.com,[162],Customer Success Manager,10.0
+243,66.0,partner,Chavez,Matthew,matthew.chavez@company66.com,"[177,225,259]",Customer Success Manager,9.0
+244,66.0,champion,Cohen,James,james.cohen@company66.com,,CIO,7.0
+245,66.0,partner,Shea,Gabriela,gabriela.shea@company66.com,,Ops Manager,12.0
+246,67.0,lead,Warren,Cory,cory.warren@company67.com,,Product Manager,8.0
+247,67.0,champion,Howard,Darius,darius.howard@company67.com,"[114,291,298]",CTO,14.0
+248,67.0,lead,Johnson,Christopher,christopher.johnson@company67.com,,Ops Manager,4.0
+249,67.0,partner,Clark,Sandra,sandra.clark@company67.com,,Data Engineer,6.0
+250,68.0,former user,Pearson,Tammy,tammy.pearson@company68.com,,Data Engineer,13.0
+251,68.0,lead,Acosta,Daniel,daniel.acosta@company68.com,[218],IT Admin,5.0
+252,68.0,champion,Mcbride,Shane,shane.mcbride@company68.com,,BI Analyst,8.0
+253,68.0,champion,Kirby,Russell,russell.kirby@company68.com,"[246,110,191]",CIO,7.0
+254,69.0,partner,Gallegos,Shari,shari.gallegos@company69.com,,CTO,13.0
+255,69.0,champion,Herman,Timothy,timothy.herman@company69.com,"[298,172]",Sales Director,9.0
+256,69.0,lead,Fleming,Victor,victor.fleming@company69.com,,Head of Data,10.0
+257,69.0,partner,Escobar,Dwayne,dwayne.escobar@company69.com,"[238,232,239]",Head of Data,1.0
+258,69.0,partner,Herring,David,david.herring@company69.com,,VP Engineering,2.0
+259,69.0,lead,May,Nicole,nicole.may@company69.com,,Sales Director,1.0
+260,70.0,champion,Wilkins,Jack,jack.wilkins@company70.com,[287],CIO,4.0
+261,70.0,champion,Hicks,Janet,janet.hicks@company70.com,,BI Analyst,10.0
+262,70.0,champion,Atkinson,Emma,emma.atkinson@company70.com,,VP Engineering,10.0
+263,71.0,former user,Campbell,Susan,susan.campbell@company71.com,"[147,164]",CTO,3.0
+264,71.0,former user,Rodriguez,Danielle,danielle.rodriguez@company71.com,[162],Customer Success Manager,12.0
+265,71.0,partner,Fields,Stephen,stephen.fields@company71.com,[258],Marketing Lead,10.0
+266,71.0,former user,Hawkins,Janet,janet.hawkins@company71.com,[122],CIO,11.0
+267,72.0,champion,Hensley,Roberta,roberta.hensley@company72.com,"[155,255,119]",Head of Data,4.0
+268,72.0,lead,Gillespie,Mark,mark.gillespie@company72.com,[141],CIO,4.0
+269,72.0,lead,Thompson,Zachary,zachary.thompson@company72.com,[141],VP Engineering,6.0
+270,73.0,partner,Spencer,Christina,christina.spencer@company73.com,"[160,204,251]",CIO,1.0
+271,73.0,lead,Pruitt,Jessica,jessica.pruitt@company73.com,"[255,152]",CTO,12.0
+272,73.0,champion,Murray,Cole,cole.murray@company73.com,,BI Analyst,8.0
+273,73.0,partner,Torres,Crystal,crystal.torres@company73.com,"[128,261,213]",Product Manager,12.0
+274,74.0,partner,Wilson,Katherine,katherine.wilson@company74.com,"[252,110,256]",Customer Success Manager,1.0
+275,74.0,lead,Griffith,Patricia,patricia.griffith@company74.com,,Finance Manager,5.0
+276,74.0,former user,Robinson,Carl,carl.robinson@company74.com,"[259,234,216]",CTO,1.0
+277,74.0,champion,Phillips,Robert,robert.phillips@company74.com,,Marketing Lead,3.0
+278,74.0,partner,Williams,Alejandro,alejandro.williams@company74.com,"[193,162,233]",CTO,2.0
+279,75.0,former user,Alexander,David,david.alexander@company75.com,"[112,240,178]",Product Manager,3.0
+280,75.0,partner,Spencer,Edward,edward.spencer@company75.com,,CIO,10.0
+281,76.0,former user,Carlson,Robert,robert.carlson@company76.com,,Sales Director,13.0
+282,76.0,champion,Miller,Timothy,timothy.miller@company76.com,[140],Finance Manager,2.0
+283,76.0,lead,Reed,Chelsea,chelsea.reed@company76.com,"[184,225]",Customer Success Manager,6.0
+284,76.0,partner,Fletcher,Joseph,joseph.fletcher@company76.com,,Finance Manager,12.0
+285,76.0,lead,Cain,Holly,holly.cain@company76.com,"[120,176,179]",CIO,12.0
+286,77.0,partner,Gordon,Joshua,joshua.gordon@company77.com,"[287,269]",IT Admin,10.0
+287,77.0,partner,Edwards,Laura,laura.edwards@company77.com,,Customer Success Manager,2.0
+288,77.0,champion,Young,Michael,michael.young@company77.com,[266],Finance Manager,13.0
+289,77.0,champion,Small,Juan,juan.small@company77.com,,Customer Success Manager,5.0
+290,78.0,former user,Garcia,Andrea,andrea.garcia@company78.com,"[105,279,212]",VP Engineering,3.0
+291,78.0,champion,Martinez,Kendra,kendra.martinez@company78.com,"[209,149,146]",VP Engineering,12.0
+292,78.0,former user,Gutierrez,Ashley,ashley.gutierrez@company78.com,,Procurement,7.0
+293,78.0,partner,James,Katie,katie.james@company78.com,,Head of Data,10.0
+294,78.0,lead,Cox,Karen,karen.cox@company78.com,[184],Data Engineer,3.0
+295,78.0,champion,Jones,John,john.jones@company78.com,,Sales Director,6.0
+296,79.0,former user,Olson,Nancy,nancy.olson@company79.com,"[183,219,172]",Sales Director,10.0
+297,79.0,partner,Brown,Elizabeth,elizabeth.brown@company79.com,,CTO,5.0
+298,79.0,lead,Lee,Sarah,sarah.lee@company79.com,"[215,260,298]",VP Engineering,12.0
+299,80.0,champion,Gould,Jose,jose.gould@company80.com,,IT Admin,9.0
+300,80.0,champion,Willis,Jasmine,jasmine.willis@company80.com,,Product Manager,13.0
+301,80.0,lead,Jenkins,Emily,emily.jenkins@company80.com,,IT Admin,12.0
+302,80.0,former user,Choi,Christina,christina.choi@company80.com,"[130,245,247]",CTO,11.0
+303,81.0,champion,Proctor,William,william.proctor@company81.com,,Product Manager,8.0
+304,81.0,lead,Gilbert,Scott,scott.gilbert@company81.com,[195],Finance Manager,12.0
+305,81.0,champion,Morton,Jill,jill.morton@company81.com,[185],Data Engineer,1.0
+306,81.0,champion,Maynard,Melissa,melissa.maynard@company81.com,"[118,266,287]",BI Analyst,2.0
+307,82.0,champion,Dunn,Sonya,sonya.dunn@company82.com,,BI Analyst,13.0
+308,82.0,former user,Merritt,Robert,robert.merritt@company82.com,,IT Admin,4.0
+309,82.0,partner,Adams,Bruce,bruce.adams@company82.com,,CTO,13.0
+310,82.0,partner,Matthews,Anthony,anthony.matthews@company82.com,"[141,157]",CTO,11.0
+311,83.0,partner,Paul,Mary,mary.paul@company83.com,"[264,288,115]",BI Analyst,6.0
+312,83.0,lead,Carlson,Alexis,alexis.carlson@company83.com,,Product Manager,6.0
+313,83.0,former user,Robertson,Leah,leah.robertson@company83.com,,Procurement,5.0
+314,83.0,champion,Jones,Wendy,wendy.jones@company83.com,[294],Marketing Lead,9.0
+315,83.0,former user,Wall,Matthew,matthew.wall@company83.com,[239],Marketing Lead,11.0
+316,84.0,former user,Walker,Patricia,patricia.walker@company84.com,"[141,232,150]",Marketing Lead,8.0
+317,84.0,former user,Morgan,Aaron,aaron.morgan@company84.com,"[255,121]",Finance Manager,1.0
+318,84.0,lead,Harding,Carla,carla.harding@company84.com,,IT Admin,9.0
+319,84.0,former user,Lee,Terri,terri.lee@company84.com,,IT Admin,6.0
+320,85.0,lead,Brown,Stephen,stephen.brown@company85.com,,Data Engineer,1.0
+321,85.0,former user,Maddox,David,david.maddox@company85.com,[130],Data Engineer,13.0
+322,85.0,lead,Bradshaw,Douglas,douglas.bradshaw@company85.com,,Customer Success Manager,11.0
+323,85.0,champion,Barnes,Amanda,amanda.barnes@company85.com,"[168,224]",Product Manager,3.0
+324,85.0,champion,Lindsey,Justin,justin.lindsey@company85.com,,Marketing Lead,5.0
+325,86.0,champion,Johnston,Donald,donald.johnston@company86.com,"[134,138,194]",IT Admin,6.0
+326,86.0,former user,Simmons,Michael,michael.simmons@company86.com,,Product Manager,4.0
+327,86.0,former user,Fernandez,Nathaniel,nathaniel.fernandez@company86.com,"[118,278,144]",Marketing Lead,12.0
+328,87.0,lead,Berg,James,james.berg@company87.com,"[264,247,112]",Customer Success Manager,10.0
+329,87.0,lead,Hooper,Sara,sara.hooper@company87.com,"[297,171,110]",BI Analyst,11.0
+330,87.0,lead,Parks,Kevin,kevin.parks@company87.com,,Marketing Lead,4.0
+331,87.0,partner,Tanner,Alicia,alicia.tanner@company87.com,[163],BI Analyst,14.0
+332,87.0,champion,Rhodes,Ryan,ryan.rhodes@company87.com,"[230,215,131]",Sales Director,7.0
+333,87.0,champion,Miranda,Susan,susan.miranda@company87.com,,CTO,5.0
+334,88.0,partner,Butler,Karen,karen.butler@company88.com,,IT Admin,12.0
+335,88.0,former user,Chang,Brian,brian.chang@company88.com,,Procurement,10.0
+336,88.0,partner,Sullivan,Michelle,michelle.sullivan@company88.com,,CIO,6.0
+337,89.0,former user,Nelson,Christie,christie.nelson@company89.com,"[125,150,256]",BI Analyst,9.0
+338,90.0,former user,Duran,Heather,heather.duran@company90.com,,Marketing Lead,14.0
+339,90.0,lead,Martinez,Elizabeth,elizabeth.martinez@company90.com,,Sales Director,11.0
+340,90.0,lead,Keller,Jennifer,jennifer.keller@company90.com,"[207,160]",IT Admin,14.0
+341,90.0,champion,Thomas,Susan,susan.thomas@company90.com,,IT Admin,11.0
+342,90.0,former user,Potter,Michelle,michelle.potter@company90.com,"[191,222,249]",VP Engineering,5.0
+343,91.0,lead,Wu,Lauren,lauren.wu@company91.com,,Ops Manager,11.0
+344,91.0,partner,Larsen,Thomas,thomas.larsen@company91.com,,CIO,5.0
+345,91.0,partner,Hartman,Matthew,matthew.hartman@company91.com,[217],Customer Success Manager,9.0
+346,91.0,lead,Watson,Steven,steven.watson@company91.com,,Ops Manager,3.0
+347,91.0,lead,Taylor,Angela,angela.taylor@company91.com,[202],VP Engineering,1.0
+348,92.0,partner,Crawford,Krystal,krystal.crawford@company92.com,,Ops Manager,2.0
+349,92.0,partner,Gutierrez,Danny,danny.gutierrez@company92.com,,Finance Manager,13.0
+350,92.0,former user,Mccall,Tommy,tommy.mccall@company92.com,,Data Engineer,12.0
+351,92.0,former user,Lee,Vincent,vincent.lee@company92.com,"[260,215]",BI Analyst,11.0
+352,92.0,partner,Johns,Jimmy,jimmy.johns@company92.com,[154],CTO,14.0
+353,93.0,partner,Jennings,Tara,tara.jennings@company93.com,"[177,292,107]",Head of Data,4.0
+354,93.0,lead,Sullivan,Kimberly,kimberly.sullivan@company93.com,,Head of Data,9.0
+355,93.0,champion,Smith,Christy,christy.smith@company93.com,[234],IT Admin,8.0
+356,94.0,champion,Garcia,Robert,robert.garcia@company94.com,[162],Head of Data,11.0
+357,94.0,champion,Terry,Rachel,rachel.terry@company94.com,[131],Marketing Lead,6.0
+358,94.0,champion,Hudson,Dawn,dawn.hudson@company94.com,,Marketing Lead,1.0
+359,94.0,champion,Reed,Peter,peter.reed@company94.com,"[175,102,273]",IT Admin,3.0
+360,95.0,lead,White,Joshua,joshua.white@company95.com,[247],VP Engineering,1.0
+361,95.0,partner,Johnson,Shawn,shawn.johnson@company95.com,[254],Ops Manager,6.0
+362,95.0,champion,Smith,Jennifer,jennifer.smith@company95.com,,Ops Manager,12.0
+363,95.0,partner,Chapman,Emily,emily.chapman@company95.com,,CTO,11.0
+364,95.0,champion,Brown,Margaret,margaret.brown@company95.com,,Head of Data,11.0
+365,95.0,partner,Pham,Hayden,hayden.pham@company95.com,,Marketing Lead,14.0
+366,96.0,former user,Miller,Michael,michael.miller@company96.com,"[277,238,135]",VP Engineering,7.0
+367,96.0,champion,Santos,Rachel,rachel.santos@company96.com,,CIO,13.0
+368,96.0,lead,Munoz,Matthew,matthew.munoz@company96.com,"[297,150,289]",Data Engineer,5.0
+369,97.0,lead,Bell,Angela,angela.bell@company97.com,,IT Admin,10.0
+370,97.0,lead,Gutierrez,Rodney,rodney.gutierrez@company97.com,,VP Engineering,7.0
+371,97.0,champion,Brown,David,david.brown@company97.com,,IT Admin,2.0
+372,97.0,former user,Lynch,Sarah,sarah.lynch@company97.com,"[161,105]",Head of Data,8.0
+373,98.0,partner,Daniels,Harold,harold.daniels@company98.com,,Data Engineer,9.0
+374,98.0,champion,Lang,Melissa,melissa.lang@company98.com,,BI Analyst,14.0
+375,98.0,partner,Adkins,Kelly,kelly.adkins@company98.com,,Finance Manager,11.0
+376,99.0,lead,Gray,Donald,donald.gray@company99.com,,Product Manager,11.0
+377,99.0,lead,Williams,Amy,amy.williams@company99.com,,IT Admin,4.0
+378,99.0,lead,Baker,Victor,victor.baker@company99.com,[236],BI Analyst,2.0
+379,99.0,champion,Morgan,Melissa,melissa.morgan@company99.com,,BI Analyst,7.0
+380,100.0,lead,Sanchez,Christopher,christopher.sanchez@company100.com,[123],Data Engineer,13.0
+381,100.0,champion,Hall,Robert,robert.hall@company100.com,,IT Admin,10.0
